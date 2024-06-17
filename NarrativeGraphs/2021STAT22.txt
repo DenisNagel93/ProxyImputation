@@ -1,0 +1,8 @@
+ev,event1,births attended by skilled birth attendants,
+ev,event2,births attended by skilled birth attendants,
+ep,event1,time,2014-2020,
+ep,event2,time,2000-2006,
+ep,event1,region,global,
+ep,event2,region,global,
+cl,event1,value,83.0,
+nr,event1,higher,event2,

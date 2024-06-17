@@ -1,0 +1,4 @@
+ev,eA,births attended by skilled health personnel,
+ep,eA,region,global,
+ep,eA,time,2014-2019,
+cl,eA,value,81.0,

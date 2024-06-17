@@ -1,0 +1,7 @@
+ev,eA,NCD mortality rate,
+ev,eB,NCD mortality rate,
+nr,eA,higher,eB,
+ep,eA,region,Eastern Mediterranean,
+ep,eB,region,Americas,
+cl,eA,value,24.5,
+cl,eB,value,14.0,
