@@ -1,0 +1,5 @@
+1.Heavy episodic drinking (youth 15 -19 years) drinkers only past 30 days (%);
+2.Age-standardized death rates prematurity and low birth rate per 100000;
+3.Heavy episodic drinking (youth 15 -19 years) past 30 days (%);
+4.Proportion of children in grades 2/3 achieving at least a minimum proficiency level in mathematics (%);
+5.13-15-years old first drink before age 14 (%);

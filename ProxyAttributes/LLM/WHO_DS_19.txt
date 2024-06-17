@@ -1,0 +1,5 @@
+1.UHC Service Coverage sub-index on infectious diseases;
+2.Skilled health professionals density (per 10 000 population);
+3.Per capita government expenditure on health (PPP int. $);
+4.Population;
+5.Income level;

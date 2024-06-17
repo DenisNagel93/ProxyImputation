@@ -1,0 +1,5 @@
+1.Estimate of current tobacco smoking prevalence (%) (age-standardized rate);
+2.Estimate of current tobacco use prevalence (%) (age-standardized rate);
+3.Estimate of current tobacco use prevalence (%);
+4.Estimate of current tobacco smoking prevalence (%);
+5.Cancer age-standardized death rates (15+) per 100000 population;

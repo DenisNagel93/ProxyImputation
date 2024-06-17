@@ -1,0 +1,5 @@
+1.Neonatal mortality rate (deaths per 1000 live births);
+2.Age-standardized DALYs diabetes mellitus per 100000;
+3.Prevalence of obesity among adults (%);
+4.Total NCD Deaths (in thousands);
+5.Estimates of rates of homicides per 100 000 population;

@@ -1,0 +1,5 @@
+1.Report with data from health services on alcohol use and AUDs;
+2.Percentage of men (15+ years) exposed to second-hand smoke;
+3.Existence of dementia national plan;
+4.Designation of alcohol tax revenues to health services;
+5.RSUD_SUBSTANCE_TYPES;

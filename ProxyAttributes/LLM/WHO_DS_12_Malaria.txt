@@ -1,0 +1,5 @@
+1.Estimated number of malaria cases;
+2.Children aged <5 years with fever who received treatment with any antimalarial (%);
+3.Malaria - number of reported confirmed cases;
+4.UHC Service Coverage sub-index on infectious diseases;
+5.Climate change attributable DALYs ('000);

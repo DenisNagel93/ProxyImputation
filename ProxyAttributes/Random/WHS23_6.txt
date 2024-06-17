@@ -1,0 +1,5 @@
+1.Percentage of population who slept under an insecticide-treated net (%);
+2.Mean HDL cholesterol crude;
+3.Polio immunization coverage among one-year-olds (%);
+4.BCG immunization coverage among one-year-olds (%);
+5.Mortality rate attributed to unintentional poisoning (per 100 000 population);

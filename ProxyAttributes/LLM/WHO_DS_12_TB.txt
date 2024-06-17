@@ -1,0 +1,5 @@
+1.Tuberculosis - new and relapse cases;
+2.Population;
+3.New or unknown treatment history cases: Pulmonary bacteriologically confirmed;
+4.Number of incident tuberculosis cases;
+5.Incidence of tuberculosis (per 100 000 population) (HIV-positive cases);

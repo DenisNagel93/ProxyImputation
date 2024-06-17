@@ -1,0 +1,5 @@
+1.Wasting prevalence in children aged < 5 years (%);
+2.Infant mortality rate (deaths per 1000 live births);
+3.Measles immunization coverage among one-year-olds (%);
+4.Neonatal mortality rate (deaths per 1000 live births);
+5.Age-standardized death rates breast cancer per 100000;

@@ -1,0 +1,5 @@
+1.Implementation level [national/subnational] of dementia awareness campaign;
+2.Average death rate due to natural disasters (per 100 000 population);
+3.Alcohol-attributable fractions (15+) liver cirrhosis deaths (%);
+4.Age-standardized death rates other unintentional injuries per 100000;
+5.Alcohol-attributable fractions (15+) road traffic crash deaths (%);

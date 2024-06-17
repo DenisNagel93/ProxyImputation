@@ -1,0 +1,4 @@
+1.Alcohol total per capita (15+) consumption (in litres of pure alcohol) (SDG Indicator 3.5.2);
+2.Point prevalence (%) alcohol use disorders 15+ years;
+3.Age-standardized death rates falls per 100000;
+4.Prevalence of obesity among adults BMI &GreaterEqual; 30 (crude estimate) (%);

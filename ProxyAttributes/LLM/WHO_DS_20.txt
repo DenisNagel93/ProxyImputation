@@ -1,0 +1,5 @@
+1.Medical doctors (per 10000);
+2.Medical doctors (number);
+3.Generalist medical practitioners (number);
+4.Population;
+5.Skilled health professionals density (per 10 000 population);

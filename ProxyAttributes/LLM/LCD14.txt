@@ -1,0 +1,5 @@
+1.Age-standardized death rates (15+ years) violence per 100000;
+2.Age-standardized death rates alcohol use disorders per 100000;
+3.Estimates of number of homicides;
+4.Alcohol total per capita (15+) consumption (in litres of pure alcohol) (SDG Indicator 3.5.2);
+5.Point prevalence (%) alcohol use disorders 15+ years;

@@ -1,0 +1,5 @@
+1.Skilled health professionals density (per 10 000 population);
+2.UHC Service Coverage sub-index on reproductive maternal newborn and child health;
+3.UHC Service Coverage sub-index on service capacity and access;
+4.Midwifery personnel (number);
+5.Nursing personnel (number);

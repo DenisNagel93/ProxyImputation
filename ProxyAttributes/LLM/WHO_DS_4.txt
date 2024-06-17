@@ -1,0 +1,5 @@
+1.Infant mortality rate (probability of dying between birth and age 1 per 1000 live births);
+2.Infant mortality rate (deaths per 1000 live births);
+3.Under-five mortality rate (deaths per 1000 live births);
+4.Neonatal mortality rate (deaths per 1000 live births);
+5.Under-five mortality rate (probability of dying by age 5 per 1000 live births);

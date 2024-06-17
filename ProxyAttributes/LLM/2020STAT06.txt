@@ -1,0 +1,5 @@
+1.Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%);
+2.National universal health coverage strategy;
+3.Population;
+4.Skilled health professionals density (per 10 000 population);
+5.Community and traditional health workers density (per 1000 population);

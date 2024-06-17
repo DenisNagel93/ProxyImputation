@@ -1,0 +1,5 @@
+1.Mortality rate among children ages 5 to 9 years (per 1000 children aged 5);
+2.TB incidence rate per 100000 population;
+3.Mean fasting plasma glucose for adults 25+ years (age-standardized) (%);
+4.Under-five mortality rate (probability of dying by age 5 per 1000 live births);
+5.Children aged 6-59 months who received vitamin A supplementation (%);

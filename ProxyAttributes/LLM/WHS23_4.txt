@@ -1,0 +1,4 @@
+1.Number of neonatal deaths;
+2.Infant mortality rate (probability of dying between birth and age 1 per 1000 live births);
+3.Number of infant deaths;
+4.Number of under-five deaths;
