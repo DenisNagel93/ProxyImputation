@@ -13,4 +13,4 @@ The narrative graphs used during evaluation are provided in the folder *Narrativ
 
 ### Proxy Lists
 
-The proxy attributes used during evaluation are provided in the folder *ProxyAttributes*. The subfolder *LLM* contains the top 5 attributes identified using the Llama2 LLM and the subfolder *Random* contains 5 randomly chosen attributes from the underlying data sets 
+The proxy attributes used during evaluation are provided in the folder *ProxyAttributes*. The subfolder *LLM* contains the top 5 attributes identified using the Llama2 LLM and the subfolder *Random* contains 5 randomly chosen attributes from the underlying data sets. If a list contains less than 5 attributes, the LLM provided only the given number of proxies.
